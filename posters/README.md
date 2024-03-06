@@ -1,0 +1,2 @@
+| ![](https://raw.githubusercontent.com/zaproxy/zap-swag/master/posters/Poster_Do_bad_things_Small_black.png) | ![](https://raw.githubusercontent.com/zaproxy/zap-swag/master/posters/Poster_Do_bad_things_Small_white.png) |
+| ![](https://raw.githubusercontent.com/zaproxy/zap-swag/master/posters/Poster_OWASP_ZAP_Small_black.png) | ![](https://raw.githubusercontent.com/zaproxy/zap-swag/master/posters/Poster_OWASP_ZAP_Small_white.png) |
